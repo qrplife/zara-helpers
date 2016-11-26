@@ -1,7 +1,7 @@
 import sqlite3
 
-listFile = "/home/matt/BigBandImport.lst"
-db = "tracks_bigband.sqlite3"
+listFile = "C:\\MyRadioStation\\Import.lst"
+db = "tracks.sqlite3"
 
 playcount=0
 lastplay=0
